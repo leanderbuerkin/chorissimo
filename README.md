@@ -1,8 +1,8 @@
 # Konzert ToDo
 
-Hauptverantwortung: Leander Bürkin
-Finanzen: Silvia Gratwohl
-Datum: 16.11.2024
+- Hauptverantwortung: Leander Bürkin
+- Finanzen: Silvia Gratwohl
+- Datum: 16.11.2024
 
 ## Unmittelbar davor und danach
 
@@ -40,20 +40,21 @@ Datum: 16.11.2024
 
 ### 1 Woche danach
 
+- [ ] vollständiges Programm wegen GEMA an Lena Löffelmann schicken (Leander)
 - [ ] Rekapitulation
 
 ## Allgemeines
 
-### 6 Monate vorher
+### Finanzielles
 
-- [X] Hallenbelegung checken (Leander): Fr 12:00-So 24:00
-- [ ] Lena Löffelmann wegen GEMA fragen (Leander)
+Jahresausgaben: 12*400€=4800€ für Ruben
+Mitgliedsbeiträge: 30*120€=3600€
 
-### 2 Monate vorher
+Wir sollten ~1200€ Gewinn machen.
 
-- [X] Doris um Hilfe bitten für Einweisung Helfende und Bonkassenschicht (Elke)
+#### 2023
 
-#### Finanzielles
+Gewinn ohne Sponsoring: 2275€
 
 Ermäßigt 8€
 Normal 12€
@@ -61,11 +62,14 @@ Vorverkauf 1€ weniger
 Eintritt frei bis 18 Jahre
 Band: 300€
 
-Jahresausgaben: 12*400€=4800€ für Ruben
-Mitgliedsbeiträge: 30*120€=3600€
+### 6 Monate vorher
 
-Wir sollten ~1200€ Gewinn machen.
-Gewinn letztes Jahr ohne Sponsoring: 2275€
+- [X] Hallenbelegung checken (Leander): Fr 12:00-So 24:00
+
+### 2 Monate vorher
+
+- [X] Doris um Hilfe bitten für Einweisung Helfende (Elke)
+- [ ] Schankerlaubniss bei <epple@teningen.de> eingeholt (Leander)
 
 ### 2 Wochen vorher
 
@@ -90,7 +94,7 @@ Gewinn letztes Jahr ohne Sponsoring: 2275€
   - 4 A2 Plakate
   - 100 A6 Flyer
   - 500 Eintrittskarte
-- [ ] Plakat an Lena Löffelmann schicken (Leander)
+- [ ] Plakat wegen GEMA an Lena Löffelmann schicken (Leander)
 - [ ] Zeitungsartikel initieren ():
   Badische Zeitung, Kaiserstühler + Emmendinger Tor, Gemeindeblätter
 - [ ] Einladung Bürgermeister, Pfarrerin, Presse, Vereine, Gemeinderat (Lena Löffelmann ?)
@@ -116,7 +120,7 @@ Gewinn letztes Jahr ohne Sponsoring: 2275€
 ### 2 Monate vorher
 
 - [X] Verantwortung klären (Leander): Ingo Scharf
-- [ ] Bar organisieren (Ingo): Musikverein Nimburg hätte eine Bar
+- [X] Cocktailbar organisieren (Lena, Ingo): Musikverein Nimburg hätte eine Bar
 - [X] Erwin wegen Weinbrunnen anfragen (Manfred): hat zugesagt
 - [ ] Erwin wegen großer Theke anfragen (Manfred)
 - [ ] Bleche (und Scheinwerfer) bei Mathias erfragen und holen (Erich)
@@ -127,6 +131,7 @@ Gewinn letztes Jahr ohne Sponsoring: 2275€
 - [X] Schichtplan erstellen und rumschicken (Leander)
 - [ ] Kuchenliste im gemischten Chor rumgeben (Sonja ?)
 - [ ] Kirchmeiers fragen, ob sie die Eintrittskasse machen würden (Manfred)
+- [ ] Doris und Fritz fragen, ob sie Bonkassenschicht machen würden und ob das Sinn macht (Elke)
 
 ### 2 Wochen vorher
 
