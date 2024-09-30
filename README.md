@@ -124,7 +124,7 @@ Band: 300€
 - [X] Erwin wegen Weinbrunnen anfragen (Manfred): hat zugesagt
 - [ ] Erwin wegen großer Theke anfragen (Manfred)
 - [ ] Bleche (und Scheinwerfer) bei Mathias erfragen und holen (Erich)
-- [ ] Tischtennis wegen Spuckschutz fragen (Leander)
+- [X] Tischtennis wegen Spuckschutz fragen (Leander)
 
 ### 1 Monat vorher
 
