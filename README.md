@@ -47,8 +47,8 @@
 
 ### Finanzielles
 
-Jahresausgaben: 12*400€=4800€ für Ruben
-Mitgliedsbeiträge: 30*120€=3600€
+Jahresausgaben: 12x400€=4800€ für Ruben
+Mitgliedsbeiträge: 30x120€=3600€
 
 Wir sollten ~1200€ Gewinn machen.
 
