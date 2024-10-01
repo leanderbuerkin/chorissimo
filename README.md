@@ -91,7 +91,7 @@ Band: 300€
 
 - [ ] Eintrittskarten und Plakate drucken (Leander)
   - 60 A3 Plakate
-  - 4 A2 Plakate
+  - 4 A1 Plakate
   - 100 A6 Flyer
   - 500 Eintrittskarte
 - [ ] Plakat wegen GEMA an Lena Löffelmann schicken (Leander)
