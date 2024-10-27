@@ -33,10 +33,12 @@
   Helfende (stempeln) dürfen umsonst essen und trinken (außer Cocktails)
   Gastchor bekommt nix umsonst
   Pianistin, Tontechnik, Band, Percussion, Trompete (stempeln) bekommen Getränke und Essen umsonst (außer Cocktails)
+  Bleche rausstellen, nicht auf Teller umschichten, das passiert an der Theke.
 
 ### Sonntag (Abbau ab 10:00)
 
 - [ ] Reste gezählt und hier protokolliert (Leander)
+- [ ] Getränkeeinnahmen berechnen und damit Essenseinnahmen berechnen
 
 ### 1 Woche danach
 
@@ -57,7 +59,7 @@ Wir sollten ~1200€ Gewinn machen.
 Gewinn ohne Sponsoring: 2275€
 
 Ermäßigt 8€
-Normal 12€
+Normal 10€
 Vorverkauf 1€ weniger
 Eintritt frei bis 18 Jahre
 Band: 300€
@@ -69,7 +71,7 @@ Band: 300€
 ### 2 Monate vorher
 
 - [X] Doris um Hilfe bitten für Einweisung Helfende (Elke)
-- [ ] Schankerlaubniss bei <epple@teningen.de> eingeholt (Leander)
+- [X] Schankerlaubniss bei <epple@teningen.de> eingeholt (Leander)
 
 ### 2 Wochen vorher
 
@@ -94,11 +96,11 @@ Band: 300€
   - 4 A1 Plakate
   - 100 A6 Flyer
   - 500 Eintrittskarte
-- [ ] Plakat wegen GEMA an Lena Löffelmann schicken (Leander)
-- [ ] Zeitungsartikel initieren ():
+- [ ] Plakat und Programm wegen GEMA an Lena Löffelmann schicken (Leander)
+- [ ] Zeitungsartikel initieren (Klaus und vllt Ursl):
   Badische Zeitung, Kaiserstühler + Emmendinger Tor, Gemeindeblätter
 - [ ] Einladung Bürgermeister, Pfarrerin, Presse, Vereine, Gemeinderat (Lena Löffelmann ?)
-- [ ] Einladung und Nachfrage an Gastchor (Leander)
+- [X] Einladung und Nachfrage an Gastchor (Leander)
 
 ### 4 Wochen vorher
 
@@ -106,7 +108,7 @@ Band: 300€
   - Sponsoren wie letztes Jahr
   - 1,50€ pro Schnittchen (Preis für 3 Schnittchen weglassen)
   - Bei Getränken: 50 ct drauf und aufrunden auf 50ct Betrag
-- [ ] Programmhefte erstellen (Leander): Sponsoren wie letztes Jahr
+- [ ] Programmhefte erstellen (Klaus): Sponsoren wie letztes Jahr
 - [ ] Banner drucken lassen (Erich und Manfred)
 
 ### 2 Wochen vorher
@@ -122,16 +124,16 @@ Band: 300€
 - [X] Verantwortung klären (Leander): Ingo Scharf
 - [X] Cocktailbar organisieren (Lena, Ingo): Musikverein Nimburg hätte eine Bar
 - [X] Erwin wegen Weinbrunnen anfragen (Manfred): hat zugesagt
-- [ ] Erwin wegen großer Theke anfragen (Manfred)
+- [X] Erwin wegen großer Theke anfragen (Manfred)
 - [ ] Bleche (und Scheinwerfer) bei Mathias erfragen und holen (Erich)
-- [X] Tischtennis wegen Spuckschutz fragen (Leander)
+- [X] Tischtennis wegen Spuckschutz fragen (Leander): Ja
 
 ### 1 Monat vorher
 
 - [X] Schichtplan erstellen und rumschicken (Leander)
 - [ ] Kuchenliste im gemischten Chor rumgeben (Sonja ?)
-- [ ] Kirchmeiers fragen, ob sie die Eintrittskasse machen würden (Manfred)
-- [ ] Doris und Fritz fragen, ob sie Bonkassenschicht machen würden und ob das Sinn macht (Elke)
+- [X] Kirchmeiers fragen, ob sie die Eintrittskasse machen würden (Manfred): Ja
+- [X] Doris und Fritz fragen, ob sie Bonkassenschicht machen würden und ob das Sinn macht (Elke): Ja
 
 ### 2 Wochen vorher
 
