@@ -1,7 +1,7 @@
 # Konzert ToDo
 
 - Hauptverantwortung: Leander Bürkin
-- Finanzen: Silvia Gratwohl
+- Finanzen: Silvia Grathwol
 - Datum: 16.11.2024
 
 ## Unmittelbar davor und danach
