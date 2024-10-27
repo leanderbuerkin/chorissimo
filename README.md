@@ -154,6 +154,7 @@ Band: 300€
 ### 1 Woche vorher
 
 - [ ] Rosen für Solistinnen und Solisten kaufen () (Feedback von letztem Jahr)
+- [ ] Kontodaten und Namen an Finanzverantwortliche weitergegeben
 
 ## Deko
 
