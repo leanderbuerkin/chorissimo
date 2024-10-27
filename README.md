@@ -84,8 +84,8 @@ Band: 300€
 - [X] Uli wegen Sponsoring Richtlinien und Hilfe fragen (Leander): Wie letztes Jahr
 - [X] Sich um Sponsoring kümmern (optional, )
 - [X] Design entwerfen (Leander)
-- [ ] Plakat erstellen (Leander): Sponsoren wie letztes Jahr, 19 Uhr Einlass und 19.30 Uhr Beginn
-- [ ] Eintrittskarte erstellen (Leander):
+- [X] Plakat erstellen (Leander): Sponsoren wie letztes Jahr, 19 Uhr Einlass und 19.30 Uhr Beginn
+- [X] Eintrittskarte erstellen (Leander):
   Rückseite: Kleines Feld für die eigene E-Mailadresse, die man eintragen kann, wenn man mitsingen möchte.
   Dann kann man es an der Bar abgeben.
 
@@ -99,7 +99,7 @@ Band: 300€
 - [ ] Plakat und Programm wegen GEMA an Lena Löffelmann schicken (Leander)
 - [ ] Zeitungsartikel initieren (Klaus und vllt Ursl):
   Badische Zeitung, Kaiserstühler + Emmendinger Tor, Gemeindeblätter
-- [ ] Einladung Bürgermeister, Pfarrerin, Presse, Vereine, Gemeinderat (Lena Löffelmann ?)
+- [X] Einladung Bürgermeister, Pfarrerin, Presse, Vereine, Gemeinderat (Lena Löffelmann)
 - [X] Einladung und Nachfrage an Gastchor (Leander)
 
 ### 4 Wochen vorher
@@ -125,7 +125,7 @@ Band: 300€
 - [X] Cocktailbar organisieren (Lena, Ingo): Musikverein Nimburg hätte eine Bar
 - [X] Erwin wegen Weinbrunnen anfragen (Manfred): hat zugesagt
 - [X] Erwin wegen großer Theke anfragen (Manfred)
-- [ ] Bleche (und Scheinwerfer) bei Mathias erfragen und holen (Erich)
+- [X] Bleche (und Scheinwerfer) bei Mathias erfragen und holen (Erich)
 - [X] Tischtennis wegen Spuckschutz fragen (Leander): Ja
 
 ### 1 Monat vorher
