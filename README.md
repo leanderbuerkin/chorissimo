@@ -137,7 +137,7 @@ Band: 300€
 
 ### 2 Wochen vorher
 
-- [ ] Peter und Sylvia wegen Wechselgeld gefragt (Leander)
+- [ ] Peter und Sylvia wegen Wechselgeld gefragt (Silvia Grathwol)
 
 ## Auftritt (Tontechnik, Gastchor etc.)
 
