@@ -13,6 +13,8 @@
 - [ ] Bleche und Scheinwerfer bei Mathias holen (Erich)
 - [ ] Anlieferung Wein- und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
 - [ ] Stempel organisieren
+- [ ] Getränkelieferant erinnert
+- [ ] Annahmetermin für Blumen von Müll abgesprochen
 
 ### Probe davor
 
@@ -26,6 +28,8 @@
 
 - [ ] 3 Schirme bringen (Ankica, Elke und Manfred)
 - [ ] Gefriertruhe aus Waldhütte holen
+- [ ] Getränkelieferung gecheckt
+- [ ] Blumen von Müll annehmen
 
 ### Samstag
 
