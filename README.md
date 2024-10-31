@@ -91,11 +91,13 @@ Band: 300€
 
 ### 6 Wochen vorher
 
-- [ ] Eintrittskarten und Plakate drucken (Leander)
+- [X] Eintrittskarten und Plakate drucken (Leander)
   - 60 A3 Plakate
   - 4 A1 Plakate
   - 100 A6 Flyer
   - 500 Eintrittskarte
+  - 250 weitere Flyer
+  - 40 DIN A4 Plakate
 - [ ] Plakat und Programm wegen GEMA an Lena Löffelmann schicken (Leander)
 - [ ] Zeitungsartikel initieren (Klaus und vllt Ursl):
   Badische Zeitung, Kaiserstühler + Emmendinger Tor, Gemeindeblätter
