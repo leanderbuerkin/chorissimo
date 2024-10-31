@@ -119,7 +119,7 @@ Band: 300€
 
 ### 2 Wochen vorher
 
-- [ ] Preisliste und Programmhefte drucken (Leander)
+- [ ] Preisliste, "Kein Ausgang"-Schild für Notausgang und Programmhefte drucken (Leander)
 - [ ] Banner aufstellen (Erich und Manfred)
 - [ ] Andere Chöre einladen (Leander): Liste im GMX mit 45 Chören
 
@@ -156,6 +156,7 @@ Band: 300€
 
 - [ ] Tontechniker (Frithjof) erinnern
 - [ ] Bernd Menzkes wegen Beleuchtung fragen (Manfred): Soll sich mit Tontechniker absprechen
+- [ ] Geschenke für Gastchor und SolistInnen
 
 ### 1 Woche vorher
 
