@@ -12,6 +12,7 @@
 - [ ] Schlüsselübergabe (Leander): Dienstag davor, alles Besteck, Herr Riesle 076632204 oder <oemt@teningen.de>
 - [ ] Bleche und Scheinwerfer bei Mathias holen (Erich)
 - [ ] Anlieferung Stehtische, Wein und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
+- [ ] Getränkelieferant nachhaken
 - [ ] Stempel organisieren
 - [ ] Getränkelieferant erinnert
 - [ ] Annahmetermin für Blumen von Müll abgesprochen
