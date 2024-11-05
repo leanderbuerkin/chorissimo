@@ -8,21 +8,23 @@
 
 ### 1 Woche vorher
 
-- [ ] Schichtplan gecheckt (Leander)
-- [ ] Schlüsselübergabe (Leander): Dienstag davor, alles Besteck
+- [X] Schichtplan gecheckt (Leander)
+- [ ] Schlüsselübergabe (Leander): Dienstag davor, alles Besteck, Herr Riesle 076632204 oder <oemt@teningen.de>
 - [ ] Bleche und Scheinwerfer bei Mathias holen (Erich)
-- [ ] Anlieferung Wein- und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
+- [ ] Anlieferung Stehtische, Wein und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
 - [ ] Stempel organisieren
 - [ ] Getränkelieferant erinnert
 - [ ] Annahmetermin für Blumen von Müll abgesprochen
 
 ### Probe davor
 
+- [ ] (Davor) Besprechung und checken, was wir alles haben
 - [ ] groben zeitlichen Ablauf erklären
 - [ ] alle helfen aufbauen
 - [ ] ggf. Bleche rausgegeben
 - [ ] Gartenmöbel mitbringen, wenn möglich
 - [ ] Durch- und Einfahrten immer freihalten
+- [ ] Tanzfläche freiräumen
 
 ### Freitag (Aufbau ab 12:00, in der Halle ab 13:30)
 
@@ -30,6 +32,8 @@
 - [ ] Gefriertruhe aus Waldhütte holen
 - [ ] Getränkelieferung gecheckt
 - [ ] Blumen von Müll annehmen
+- [ ] auf Mülltrennung achten
+- [ ] Preisliste an die Bonkasse
 
 ### Samstag
 
@@ -38,6 +42,7 @@
   Gastchor bekommt nix umsonst
   Pianistin, Tontechnik, Band, Percussion, Trompete (stempeln) bekommen Getränke und Essen umsonst (außer Cocktails)
   Bleche rausstellen, nicht auf Teller umschichten, das passiert an der Theke.
+  Mülltrennung
 
 ### Sonntag (Abbau ab 10:00)
 
@@ -66,7 +71,7 @@ Ermäßigt 8€
 Normal 10€
 Vorverkauf 1€ weniger
 Eintritt frei bis 18 Jahre
-Band: 300€
+Band: 400€
 
 ### 6 Monate vorher
 
@@ -115,13 +120,13 @@ Band: 300€
   - 1,50€ pro Schnittchen (Preis für 3 Schnittchen weglassen)
   - Bei Getränken: 50 ct drauf und aufrunden auf 50ct Betrag
 - [ ] Programmhefte erstellen (Klaus): Sponsoren wie letztes Jahr
-- [ ] Banner drucken lassen (Erich und Manfred)
+- [X] Banner drucken lassen (Erich und Manfred)
 
 ### 2 Wochen vorher
 
 - [ ] Preisliste, "Kein Ausgang"-Schild für Notausgang und Programmhefte drucken (Leander)
-- [ ] Banner aufstellen (Erich und Manfred)
-- [ ] Andere Chöre einladen (Leander): Liste im GMX mit 45 Chören
+- [X] Banner aufstellen (Erich und Manfred)
+- [X] Andere Chöre einladen (Leander): Liste im GMX mit 45 Chören
 
 ## Bewirtung
 
@@ -137,7 +142,7 @@ Band: 300€
 ### 1 Monat vorher
 
 - [X] Schichtplan erstellen und rumschicken (Leander)
-- [ ] Kuchenliste im gemischten Chor rumgeben (Sonja ?)
+- [X] Kuchenliste im gemischten Chor rumgeben (Sonja)
 - [X] Kirchmeiers fragen, ob sie die Eintrittskasse machen würden (Manfred): Ja
 - [X] Doris und Fritz fragen, ob sie Bonkassenschicht machen würden und ob das Sinn macht (Elke): Ja
 
@@ -155,17 +160,17 @@ Band: 300€
 ### 1 Monat vorher
 
 - [ ] Tontechniker (Frithjof) erinnern
-- [ ] Bernd Menzkes wegen Beleuchtung fragen (Manfred): Soll sich mit Tontechniker absprechen
+- [X] Bernd Menzkes wegen Beleuchtung fragen (Manfred): Soll sich mit Tontechniker absprechen
 - [ ] Geschenke für Gastchor und SolistInnen
 
 ### 1 Woche vorher
 
-- [ ] Rosen für Solistinnen und Solisten kaufen () (Feedback von letztem Jahr)
+- [X] Geschenke, Rosen für Solistinnen und Solisten kaufen () (Feedback von letztem Jahr)
 - [ ] Kontodaten und Namen an Finanzverantwortliche weitergegeben
 
 ## Deko
 
 ### 1 Monat vorher
 
-- [ ] Deko-Orga treffen in die Wege leiten (Elke)
-- [ ] Müll anfragen wegen Pflanzen
+- [X] Deko-Orga treffen in die Wege leiten (Elke)
+- [X] Müll anfragen wegen Pflanzen
