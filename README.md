@@ -9,20 +9,17 @@
 ### 1 Woche vorher
 
 - [X] Schichtplan gecheckt (Leander)
-- [ ] Schlüsselübergabe (Leander): Dienstag davor, alles Besteck, Herr Riesle 076632204 oder <oemt@teningen.de>
-- [ ] Bleche und Scheinwerfer bei Mathias holen (Erich)
 - [ ] Anlieferung Stehtische, Wein und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
-- [ ] Getränkelieferant nachhaken
-- [ ] Stempel organisieren
-- [ ] Getränkelieferant erinnert
-- [ ] Annahmetermin für Blumen von Müll abgesprochen
+- [X] Stempel organisieren
+- [X] Getränkelieferant erinnert
+- [X] Annahmetermin für Blumen von Müll abgesprochen
 
 ### Probe davor
 
 - [ ] (Davor) Besprechung und checken, was wir alles haben
 - [ ] groben zeitlichen Ablauf erklären
 - [ ] alle helfen aufbauen
-- [ ] ggf. Bleche rausgegeben
+- [ ] Informieren über Lebensmitteleinkauf für Bleche
 - [ ] Gartenmöbel mitbringen, wenn möglich
 - [ ] Durch- und Einfahrten immer freihalten
 - [ ] Tanzfläche freiräumen
@@ -30,11 +27,14 @@
 ### Freitag (Aufbau ab 12:00, in der Halle ab 13:30)
 
 - [ ] 3 Schirme bringen (Ankica, Elke und Manfred)
+- [ ] Schlüsselübergabe (Leander): alles Besteck, Herr Riesle 076632204 oder <oemt@teningen.de>
+- [ ] Bleche und Scheinwerfer bei Mathias holen (Erich)
 - [ ] Gefriertruhe aus Waldhütte holen
 - [ ] Getränkelieferung gecheckt
 - [ ] Blumen von Müll annehmen
 - [ ] auf Mülltrennung achten
 - [ ] Preisliste an die Bonkasse
+- [ ] Bleche verteilen
 
 ### Samstag
 
@@ -52,7 +52,7 @@
 
 ### 1 Woche danach
 
-- [ ] vollständiges Programm wegen GEMA an Lena Löffelmann schicken (Leander)
+- [X] vollständiges Programm wegen GEMA an Lena Löffelmann schicken (Leander)
 - [ ] Rekapitulation
 
 ## Allgemeines
@@ -85,7 +85,8 @@ Band: 400€
 
 ### 2 Wochen vorher
 
-- [ ] Hausmeister kontaktieren wegen beiden Schlüsselübergaben (Leander)
+- [X] Hausmeister kontaktieren wegen beiden Schlüsselübergaben (Leander)
+  Herr Riesle 076632204 oder <oemt@teningen.de>
 
 ## Werbung und Design
 
@@ -108,24 +109,24 @@ Band: 400€
   - 500 Eintrittskarte
   - 250 weitere Flyer
   - 40 DIN A4 Plakate
-- [ ] Plakat und Programm wegen GEMA an Lena Löffelmann schicken (Leander)
-- [ ] Zeitungsartikel initieren (Klaus und vllt Ursl):
+- [X] Plakat und Programm wegen GEMA an Lena Löffelmann schicken (Leander)
+- [X] Zeitungsartikel initieren (Klaus und vllt Ursl):
   Badische Zeitung, Kaiserstühler + Emmendinger Tor, Gemeindeblätter
 - [X] Einladung Bürgermeister, Pfarrerin, Presse, Vereine, Gemeinderat (Lena Löffelmann)
 - [X] Einladung und Nachfrage an Gastchor (Leander)
 
 ### 4 Wochen vorher
 
-- [ ] Preisliste erstellen (Leander):
+- [X] Preisliste erstellen (Leander):
   - Sponsoren wie letztes Jahr
   - 1,50€ pro Schnittchen (Preis für 3 Schnittchen weglassen)
   - Bei Getränken: 50 ct drauf und aufrunden auf 50ct Betrag
-- [ ] Programmhefte erstellen (Klaus): Sponsoren wie letztes Jahr
+- [X] Programmhefte erstellen (Klaus): Sponsoren wie letztes Jahr
 - [X] Banner drucken lassen (Erich und Manfred)
 
 ### 2 Wochen vorher
 
-- [ ] Preisliste, "Kein Ausgang"-Schild für Notausgang und Programmhefte drucken (Leander)
+- [X] Preisliste, "Kein Ausgang"-Schild für Notausgang und Programmhefte drucken (Leander)
 - [X] Banner aufstellen (Erich und Manfred)
 - [X] Andere Chöre einladen (Leander): Liste im GMX mit 45 Chören
 
@@ -149,7 +150,7 @@ Band: 400€
 
 ### 2 Wochen vorher
 
-- [ ] Peter und Sylvia wegen Wechselgeld gefragt (Silvia Grathwol)
+- [X] Peter und Sylvia wegen Wechselgeld gefragt (Silvia Grathwol)
 
 ## Auftritt (Tontechnik, Gastchor etc.)
 
@@ -160,14 +161,14 @@ Band: 400€
 
 ### 1 Monat vorher
 
-- [ ] Tontechniker (Frithjof) erinnern
+- [X] Tontechniker (Frithjof) erinnern
 - [X] Bernd Menzkes wegen Beleuchtung fragen (Manfred): Soll sich mit Tontechniker absprechen
-- [ ] Geschenke für Gastchor und SolistInnen
+- [X] Geschenke für Gastchor und SolistInnen
 
 ### 1 Woche vorher
 
 - [X] Geschenke, Rosen für Solistinnen und Solisten kaufen () (Feedback von letztem Jahr)
-- [ ] Kontodaten und Namen an Finanzverantwortliche weitergegeben
+- [X] Kontodaten und Namen an Finanzverantwortliche weitergegeben
 
 ## Deko
 
