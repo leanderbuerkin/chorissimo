@@ -9,7 +9,7 @@
 ### 1 Woche vorher
 
 - [X] Schichtplan gecheckt (Leander)
-- [X] Anlieferung Stehtische, Wein und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
+- [ ] Anlieferung Stehtische, Wein und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
 - [X] Stempel organisieren
 - [X] Getränkelieferant erinnert
 - [X] Annahmetermin für Blumen von Müll abgesprochen
