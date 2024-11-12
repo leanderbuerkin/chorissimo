@@ -9,7 +9,7 @@
 ### 1 Woche vorher
 
 - [X] Schichtplan gecheckt (Leander)
-- [ ] Anlieferung Stehtische, Wein und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
+- [X] Anlieferung Stehtische, Wein und große Theke mit Erwin absprechen (Manfred): Freitag, 14:00
 - [X] Stempel organisieren
 - [X] Getränkelieferant erinnert
 - [X] Annahmetermin für Blumen von Müll abgesprochen
@@ -17,7 +17,7 @@
 ### Probe davor
 
 - [ ] (Davor) Besprechung und checken, was wir alles haben
-- [ ] groben zeitlichen Ablauf erklären
+- [ ] groben zeitlichen Ablauf erklären: GP 17:30, Sa 16:15
 - [ ] alle helfen aufbauen
 - [ ] Informieren über Lebensmitteleinkauf für Bleche
 - [ ] Gartenmöbel mitbringen, wenn möglich
@@ -26,29 +26,7 @@
 
 ### Freitag (Aufbau ab 12:00, in der Halle ab 13:30)
 
-- [ ] 3 Schirme bringen (Ankica, Elke und Manfred)
-- [ ] Schlüsselübergabe (Leander): alles Besteck, Herr Riesle 076632204 oder <oemt@teningen.de>
-- [ ] Bleche und Scheinwerfer bei Mathias holen (Erich)
-- [ ] Gefriertruhe aus Waldhütte holen
-- [ ] Getränkelieferung gecheckt
-- [ ] Blumen von Müll annehmen
-- [ ] auf Mülltrennung achten
-- [ ] Preisliste an die Bonkasse
-- [ ] Bleche verteilen
-
-### Samstag
-
-- [ ] Schichten eingewiesen:
-  Helfende (stempeln) dürfen umsonst essen und trinken (außer Cocktails)
-  Gastchor bekommt nix umsonst
-  Pianistin, Tontechnik, Band, Percussion, Trompete (stempeln) bekommen Getränke und Essen umsonst (außer Cocktails)
-  Bleche rausstellen, nicht auf Teller umschichten, das passiert an der Theke.
-  Mülltrennung
-
 ### Sonntag (Abbau ab 10:00)
-
-- [ ] Reste gezählt und hier protokolliert (Leander)
-- [ ] Getränkeeinnahmen berechnen und damit Essenseinnahmen berechnen
 
 ### 1 Woche danach
 
