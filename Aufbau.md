@@ -2,6 +2,14 @@
 
 ## Material
 
+### Menschen mitbringen
+
+- [ ] Kabeltrommel, Mehrfachstecker, Verlängerungskabel (Klaus, Manfred)
+- [ ] Werkzeugkasten
+- [ ] Handschuhe
+
+### Einkaufen
+
 - [ ] Cocktailsachen (Lena)
 - [ ] 200 Servietten (Silvia)
 - [ ] Eine Rolle Alu-Folie
@@ -19,7 +27,6 @@
 - [ ] Musikstoff
 - [ ] Eiskühler
 - [ ] Anzünder
-- [ ] Werkzeugkasten
 - [ ] Theke
 - [ ] Pflanzen
 - [ ] Gartenmöbel
@@ -85,7 +92,7 @@ Alle zuhause: Bleche bestücken
 20:35 Pause
 21:00 2. Teil
 21:30 Danksagungen
-22:00 Ende Konzert (Umbaupause)
+22:00 Ende Konzert (Umbaupause, Tische aufbauen?)
 22:30 Aftershowparty
 02:00 Ende der Veranstaltung - Beginn Abbau (Stühle stapeln)
 

@@ -13,16 +13,20 @@
 - [X] Stempel organisieren
 - [X] Getränkelieferant erinnert
 - [X] Annahmetermin für Blumen von Müll abgesprochen
+- [ ] Essen für Aufbau organisieren (Brezeln)
+- [ ] Uhrzeiten in Info schicken
 
 ### Probe davor
 
 - [ ] (Davor) Besprechung und checken, was wir alles haben
 - [ ] groben zeitlichen Ablauf erklären: GP 17:30, Sa 16:15
-- [ ] alle helfen aufbauen
-- [ ] Informieren über Lebensmitteleinkauf für Bleche
+- [ ] alle helfen aufbauen Fr 12:00 im Probelokal 13:00
+- [ ] Informieren über Lebensmitteleinkauf für Bleche (alle ein Blech, gerne auch zwei) erklären, wie groß, 1,50€ pro Schnittchen
 - [ ] Gartenmöbel mitbringen, wenn möglich
 - [ ] Durch- und Einfahrten immer freihalten
 - [ ] Tanzfläche freiräumen
+- [ ] Abbau So ab 10:00
+- [ ] Was könnte man gebrauchen? (Kabeltrommel, Mehrfachstecker, Verlängerungskabel (Klaus, Manfred), Werkzeugkasten, Handschuhe)
 
 ### Freitag (Aufbau ab 12:00, in der Halle ab 13:30)
 
@@ -112,12 +116,14 @@ Band: 400€
 
 ### 2 Monate vorher
 
-- [X] Verantwortung klären (Leander): Ingo Scharf
+- [X] Cocktailbar Verantwortung klären (Leander): Ingo Scharf
 - [X] Cocktailbar organisieren (Lena, Ingo): Musikverein Nimburg hätte eine Bar
 - [X] Erwin wegen Weinbrunnen anfragen (Manfred): hat zugesagt
 - [X] Erwin wegen großer Theke anfragen (Manfred)
 - [X] Bleche (und Scheinwerfer) bei Mathias erfragen und holen (Erich)
 - [X] Tischtennis wegen Spuckschutz fragen (Leander): Ja
+- [X] Getränkebestellung (Sonja)
+- [X] Wein bestellt (Sonja)
 
 ### 1 Monat vorher
 
