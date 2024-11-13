@@ -14,19 +14,20 @@
 - [X] Getränkelieferant erinnert
 - [X] Annahmetermin für Blumen von Müll abgesprochen
 - [ ] Essen für Aufbau organisieren (Brezeln)
-- [ ] Uhrzeiten in Info schicken
+- [ ] Uhrzeiten und Infos aus der Gruppe in Info schicken
 
 ### Probe davor
 
-- [ ] (Davor) Besprechung und checken, was wir alles haben
-- [ ] groben zeitlichen Ablauf erklären: GP 17:30, Sa 16:15
-- [ ] alle helfen aufbauen Fr 12:00 im Probelokal 13:00
-- [ ] Informieren über Lebensmitteleinkauf für Bleche (alle ein Blech, gerne auch zwei) erklären, wie groß, 1,50€ pro Schnittchen
-- [ ] Gartenmöbel mitbringen, wenn möglich
-- [ ] Durch- und Einfahrten immer freihalten
-- [ ] Tanzfläche freiräumen
-- [ ] Abbau So ab 10:00
-- [ ] Was könnte man gebrauchen? (Kabeltrommel, Mehrfachstecker, Verlängerungskabel (Klaus, Manfred), Werkzeugkasten, Handschuhe)
+- [X] (Davor) Besprechung und checken, was wir alles haben
+- [X] groben zeitlichen Ablauf erklären: GP 17:30, Sa 16:15
+- [X] alle helfen aufbauen Fr 12:00 im Probelokal 13:00
+- [X] Abbau So ab 10:00
+- [X] Informieren über Lebensmitteleinkauf für Bleche (alle ein Blech, gerne auch zwei) erklären, wie groß, 1,50€ pro Schnittchen
+- [X] Gartenmöbel mitbringen, wenn möglich
+- [X] Durch- und Einfahrten immer freihalten
+- [X] Tanzfläche freiräumen
+- [X] Was könnte man gebrauchen? (Kabeltrommel, Mehrfachstecker, Verlängerungskabel (Klaus, Manfred), Werkzeugkasten, Handschuhe)
+- [X] Feedback im Dezember oder so
 
 ### Freitag (Aufbau ab 12:00, in der Halle ab 13:30)
 
