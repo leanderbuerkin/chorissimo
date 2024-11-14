@@ -13,8 +13,8 @@
 - [X] Stempel organisieren
 - [X] Getränkelieferant erinnert
 - [X] Annahmetermin für Blumen von Müll abgesprochen
-- [ ] Essen für Aufbau organisieren (Brezeln)
-- [ ] Uhrzeiten und Infos aus der Gruppe in Info schicken
+- [X] Essen für Aufbau organisieren (Brezeln)
+- [X] Uhrzeiten und Infos aus der Gruppe in Info schicken
 
 ### Probe davor
 
