@@ -60,6 +60,9 @@ Band: 400€
 ### 6 Monate vorher
 
 - [X] Hallenbelegung checken (Leander): Fr 12:00-So 24:00
+- [X] Design entwerfen (Leander)
+- [X] Plakat erstellen (Leander): Sponsoren wie letztes Jahr, 19 Uhr Einlass und 19.30 Uhr Beginn
+- [ ] Gastchor suchen
 
 ### 2 Monate vorher
 
@@ -77,8 +80,6 @@ Band: 400€
 
 - [X] Uli wegen Sponsoring Richtlinien und Hilfe fragen (Leander): Wie letztes Jahr
 - [X] Sich um Sponsoring kümmern (optional, )
-- [X] Design entwerfen (Leander)
-- [X] Plakat erstellen (Leander): Sponsoren wie letztes Jahr, 19 Uhr Einlass und 19.30 Uhr Beginn
 - [X] Eintrittskarte erstellen (Leander):
   Rückseite: Kleines Feld für die eigene E-Mailadresse, die man eintragen kann, wenn man mitsingen möchte.
   Dann kann man es an der Bar abgeben.
